@@ -1,3 +1,3 @@
 # simon-says
 Game <br>
-Author -asm
+Author - Asm
